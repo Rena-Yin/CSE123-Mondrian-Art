@@ -9,3 +9,10 @@ This project generates abstract art inspired by Piet Mondrian’s style using Ja
    ```bash
    git clone https://github.com/your-username/mondrian-art.git
    cd mondrian-art
+
+2. Complie the project
+   javac src/*.java
+   
+3. Run the GUI
+   java -cp src MondrianGUI
+   
