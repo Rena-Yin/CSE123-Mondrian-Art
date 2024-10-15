@@ -1,1 +1,1 @@
-# CSE123-Mondrian-Art
+# CSE123-Mondrian-Art-Project-(Had some modifications)
