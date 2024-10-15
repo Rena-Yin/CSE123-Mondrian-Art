@@ -11,8 +11,10 @@ This project generates abstract art inspired by Piet Mondrian’s style using Ja
    cd mondrian-art
 
 2. Complie the project
+   ```bash
    javac src/*.java
    
-3. Run the GUI
+4. Run the GUI
+   ```bash
    java -cp src MondrianGUI
    
